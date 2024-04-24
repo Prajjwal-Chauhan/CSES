@@ -1,3 +1,4 @@
+/* Takes 0.17 seconds on average. */
 package JAVA;
 import java.util.*;
 
