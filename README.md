@@ -90,7 +90,7 @@ This repository is meant to serve as a learning tool and reference for programmi
 
 ## License 🔐
 
-This project is open-sourced under the [GNU license](LICENSE.md). See the LICENSE file for more information.
+This project is open-sourced under the [GPL-3.0 license](LICENSE.md). See the LICENSE file for more information.
 
 ## Acknowledgements 🙏
 
