@@ -1,5 +1,4 @@
 /* Takes 0.17 seconds on average. */
-package JAVA.Introductory_Problems;
 import java.util.*;
 
 public class weird_algorithm {
