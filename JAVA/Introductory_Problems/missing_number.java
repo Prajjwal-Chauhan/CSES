@@ -2,9 +2,7 @@
      1) Mathematical formula - 0.12 seconds on an average
      2) XOR operation - 
      */
-
-package JAVA.Introductory_Problems;
-
+    
 import java.io.*;
 import java.util.StringTokenizer;
 
